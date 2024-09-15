@@ -6,3 +6,5 @@
 
 ::max-widt:
 ->Is a property for responsiveness issue rather than just using width
+
+::to make a circle if you have same height and width you can apply border-radius with a large value - use line-height same as height to center the item
