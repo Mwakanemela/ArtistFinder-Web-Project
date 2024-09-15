@@ -1,0 +1,1 @@
+box-sizing: border-box; -> means that if you set the height or width of an element it has to include the padding and size of the border as well: the answer here is yes but the default is no
