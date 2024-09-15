@@ -1,1 +1,8 @@
-box-sizing: border-box; -> means that if you set the height or width of an element it has to include the padding and size of the border as well: the answer here is yes but the default is no
+:: box-sizing: border-box; -> means that if you set the height or width of an element it has to include the padding and size of the border as well: the answer here is yes but the default is no
+
+
+::text-transform: uppercase; :: letter-spacing:1px;
+->atleast add some letter spacing when you uppercase text
+
+::max-widt:
+->Is a property for responsiveness issue rather than just using width
